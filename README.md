@@ -1,4 +1,4 @@
-# cwarcup.com by Curtis Warcup
+
 
 This repository is the home to my personal [website](https://www.cwarcup.com/). This website is intended for personal use, and functions as a method of storing/organizing notes and projects.
 
