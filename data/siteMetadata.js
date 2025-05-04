@@ -1,22 +1,22 @@
 const siteMetadata = {
-  title: 'cwarcup - Curtis Warcup',
-  author: 'Curtis Warcup',
-  headerTitle: 'Curtis Warcup - Web Developer',
+  title: 'Personal blog - Kausi',
+  author: 'Kausi',
+  headerTitle: 'Kausi - Systems Engineering Leader',
   description:
-    'Personal blog and web development notes created by Curtis Warcup. Also contains projects and personal interests.',
+    'Personal blog created by Kausi. Also contains projects and personal interests.',
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://cwarcup.com',
-  siteRepo: 'https://github.com/Cwarcup/personal-blog',
+  siteRepo: 'https://github.com/Kausi-hub/Kausi-hub.personal-blog.github.io',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'curtis.gwarcup@gmail.com',
-  github: 'https://github.com/Cwarcup',
-  twitter: 'https://twitter.com/curtiswarcup',
-  facebook: 'https://www.facebook.com/curtis.wwwwww',
+  email: 'writewidme@gmail.com',
+  github: 'https://github.com/Kausi-hub',
+  twitter: 'https://twitter.com/',
+  facebook: 'https://www.facebook.com/',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com/in/curtiswarcup/',
+  linkedin: 'https://www.linkedin.com/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
